@@ -3,12 +3,12 @@
 ## Инструкция по установке:
 - Склонируйте репозиторий:
 ```bash
-git clone https://github.com/Ijidishurka/bfg
+git clone https://github.com/cellonty/MWG
 ```
 
 - Перейдите в папку с ботом:
 ```bash
-cd kakabfg
+cd MWG
 ```
 
 - Установите зависимости:
